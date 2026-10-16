@@ -1,7 +1,6 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "GitHub Theme",
   "theme": "moonstone",
-  "enabledCssSnippets": [
-    "tight-table"
-  ]
+  "enabledCssSnippets": [],
+  "textFontFamily": "Microsoft YaHei"
 }
